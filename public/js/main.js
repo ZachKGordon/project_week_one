@@ -30,15 +30,15 @@ $(document).ready(function () {
       $("." + value).cycle({
         fx:'scrollUp',
         timeout: 4000,
-        speed: 1000,
+        speed: 2500,
       });
       } else {
       $("." + value).cycle({
         fx:'scrollDown',
         timeout: 4000,
-        speed: 1000,
+        speed: 2500,
       });
-    }   
+    }
   });
 
   $.each(clickableImage, function(index, value) {

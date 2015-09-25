@@ -1,12 +1,32 @@
 Outline:
-
 Fonts for Sass
-
 font-family: 'Roboto', sans-serif;
-
 font-family: 'Roboto Condensed', sans-serif;
-
 font-family: 'Raleway', sans-serif;
+
+//Define colors here
+
+$white: #FFFFFF;
+
+$primary-font-color: $white;
+
+//night blue background color
+$background-A: #162327;
+//bright blue background color
+$background-B: #05c3f9;
+//sea blue background color
+$contrast-B: #037fa2;
+//deep mocha brown background color
+$background-C: #252525;
+$highest-light: #fff;
+//light gray
+$high-light: #bebebe;
+//medium gray
+$med-light: #888888;
+//dark gray background color
+$low-light: #383838;
+// Gold Start Color
+$bright-rating: #ffbf00;
 
 
 HOME SECTION: Background Color - #162327
